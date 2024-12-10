@@ -42,7 +42,7 @@ function Home2() {
               <br />I often leverage my passion for product development by
               working with <b className="purple">Node.js</b> and
               <i>
-                <b className="purple"> modern JavaScript frameworks</b>
+                <b className="purple"> modern JavaScript library</b>
               </i>
               &nbsp; like
               <i>
